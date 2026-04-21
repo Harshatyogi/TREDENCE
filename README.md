@@ -122,11 +122,8 @@ Sparsity (%) = (number of gates < 0.01) / (total gates) × 100
 
 > gate_lr = 0.05 | Patch Embed MLP | 60 epochs
 
-| Lambda | Test Accuracy (%) | Sparsity Level (%) |
-|--------|------------------|--------------------|
-| 1e-5   |                  |                    |
-| 1e-4   |                  |                    |
-| 1e-3   |                  |                    |
+<img width="473" height="198" alt="image" src="https://github.com/user-attachments/assets/3e547a3f-6679-4fd3-a9ab-a0d3fe3749ac" />
+
 
 *Fill in from your terminal output after training completes.*
 
